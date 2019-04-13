@@ -1,0 +1,103 @@
+commit a06e112115e87ab63c0e35abaf6cf5b326f6a33e
+Merge: 54446ec c7ebc4e
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:32:32 2019 +0200
+
+    Fusione ramo Home
+
+commit 54446ec843fe70911580c5966ae1b6bb10c333fb
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:28:56 2019 +0200
+
+    Inserito colore sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f5dabd3 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color: blue;}
+\ No newline at end of file
+
+commit c7ebc4ebadf78513e754a582c8e2380af46a9db4
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:23:01 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..7984cea 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color: red;}
+\ No newline at end of file
+
+commit 15757470027bffc0511cf4846d9539c6713ca0a0
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:20:51 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/violet.jpg b/img/violet.jpg
+new file mode 100644
+index 0000000..11da9cb
+Binary files /dev/null and b/img/violet.jpg differ
+
+commit bf3af896eb83ec83ce3e82cc794463126b466acb
+Merge: 59c1815 4135aed
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:14:50 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 4135aed45f5bc88e6d55c7fa6f27961ffc65554a
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:13:50 2019 +0200
+
+    Inserito file css per widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit f3f8804839b0008dae1428570d725e19e7fe98d9
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:12:19 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit ed5a78c1ff61d19a870d8d9d3cd768b1287225cc
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:10:07 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/img.jpg b/img/img.jpg
+new file mode 100644
+index 0000000..8bad591
+Binary files /dev/null and b/img/img.jpg differ
+
+commit 59c181540ded42db395b5926fbe633c8427ca40a
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:07:35 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 9e4ccfbbe894772718831d3d28f839f198e0fdbd
+Author: lui2030 <luigihu1@gmail.com>
+Date:   Sat Apr 13 11:05:11 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
